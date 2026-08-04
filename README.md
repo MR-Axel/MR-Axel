@@ -58,8 +58,9 @@ Config lives in your repo, nothing hardcoded inside.
 
 ### Elsewhere
 
+**[LinkedIn](https://www.linkedin.com/in/axelrosso/)** is the fastest way to reach me.
+
 [Portfolio](https://mr-axel.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/axelrosso/) ·
 [Unlaunched](https://unlaunched.online/u/axel) ·
-[X](https://x.com/ArrobAxel) ·
-[axel.m.rosso@gmail.com](mailto:axel.m.rosso@gmail.com)
+[X](https://x.com/ArrobAxel)
