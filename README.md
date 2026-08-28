@@ -1,13 +1,11 @@
 ## Axel Rosso
 
-**AI Product Manager and builder. Buenos Aires, Argentina.**
+**AI Product Manager & AI Engineer. Buenos Aires, Argentina.**
 
-Most of the systems we live inside were never designed badly on purpose; they just got old
-and nobody touched them. A car driving to work with one person in it. A kid in a classroom
-learning to memorize things that are one prompt away. Those are the ones I go after.
+Agents and apps, from idea to product: chat, voice and image agents, automation, internal
+tooling, and whole products from zero.
 
-I do AI product for a living: agent platforms, automation, data. The rest of the time I ship
-products of my own, with Claude Code in the loop for most of the build.
+Six years testing what other people built. Now I build it myself, to that standard.
 
 <br>
 
@@ -15,11 +13,12 @@ products of my own, with Claude Code in the loop for most of the build.
 
 | Project | What it is | |
 | :-- | :-- | :-- |
-| **[Nuchus](https://nuchus.app)** | Daily urban carpooling in Buenos Aires. Flat prepaid fare, matching passengers with drivers already making that trip. | `live` |
-| **[Kidonauta](https://www.kidonauta.com)** | AI tutor for kids and teens in LatAm. Nova builds missions around what a kid already loves, and never hands over the answer. | `live` |
-| **[Unlaunched](https://unlaunched.online)** | Discovery platform for early stage projects. Builders publish, and find co-founders, investors and collaborators. | `live` |
-| **[Buildeable](https://buildeable.com)** | AI product management platform. Specs, roadmaps, sprints, research and audits for PMs and small product teams. | `live` |
-| **[Pedimelo](https://pedimelo.com)** | AI agents for small businesses. WhatsApp, web and voice, wired to their own data. | `live` |
+| **[dametrabajo](https://dametrabajo.com)** | Tailored CVs per posting, tracked applications, and the eligibility check up front. | `live` |
+| **[Kidonauta](https://www.kidonauta.com)** | An AI tutor for kids in LatAm. Nova builds missions around what a kid already loves, and never hands over the answer. | `live` |
+| **[Nuchus](https://nuchus.app)** | Shared rides for the daily commute, on a flat fare. You travel comfortably, for a good price, and it earns you perks. | `live` |
+| **[Unlaunched](https://unlaunched.online)** | Where early projects get found. Builders publish what they are working on and meet co-founders before there is anything to demo. | `live` |
+| **[Buildeable](https://buildeable.com)** | Specs, roadmaps, research and audits for PMs, founders and small product teams. Product management built on Claude. | `live` |
+| **[Pedimelo](https://pedimelo.com)** | AI agents for small businesses: WhatsApp, web and voice, wired to the data they already have, with a dashboard on top. | `live` |
 
 Full portfolio, contribution history and public work: **[axelrosso.com](https://axelrosso.com)**
 
@@ -27,21 +26,25 @@ Full portfolio, contribution history and public work: **[axelrosso.com](https://
 
 ### What I actually do
 
-- **AI agent products.** Spec and ship agent systems end to end: trigger detection, data
-  retrieval, multi channel interaction (chat, WhatsApp, voice) and action execution.
-- **Agentic coding.** Claude Code and Cursor as daily drivers. I write production code and
-  send it through review, which means I do not just prioritize work, I ship it.
-- **Automation and internal tooling.** n8n, Activepieces, Retool, Zapier, Make. Building the
-  boring machinery that gives a team its hours back.
-- **0 to 1.** Standing up a function, a team or a product where none existed, then designing
-  the process that keeps it running without me.
+- **AI agents.** Chat, voice, images and video, end to end. Where they run, which tools they
+  may touch, and when they hand off to a person.
+- **Your business online.** A landing that says what you actually do, the measurement wired
+  in from day one, and an agent that answers.
+- **Products, 0 to 1.** Strategy, build and launch. Spec to release in weeks, and the repo
+  ends up yours.
+- **Automation and internal tooling.** n8n, Activepieces, Retool, Zapier, Make. And that it
+  still runs six months after whoever built it has gone.
+- **Strategy and advisory.** One to one with a founder, or alongside the team, on the AI
+  calls that are being made by whoever is free.
+- **Generative production.** Image and product video, prompt to rendered clip.
 - **Quality and release engineering.** Six years in QA and release automation before product.
-  It is why I only trust systems I can test.
-- **Data and BI.** SQL, Tableau, Metabase. Dashboards people actually make decisions on.
-- **Hedera and web3.** Three projects built on Hedera, including verifiable driver identity.
+  I still read a release plan looking for where it breaks.
 
-**Stack:** Python · SQL · Claude API · Claude Code · Cursor · n8n · Activepieces · Retool ·
-Supabase · Vercel · Coolify · Tableau · Metabase
+**Stack:** Python · TypeScript · SQL · Node · Deno · React · Vite · Tailwind · React Native ·
+Expo · FastAPI · Supabase · PostgreSQL · Hedera · Claude API · Claude Code · Cursor · Gemini ·
+Ollama · n8n · Activepieces · Retool · Zapier · Make · Docker · Caddy · Vercel · Coolify ·
+GitHub Actions · Jenkins · Playwright · MercadoPago · Lemon Squeezy · Resend · Telegram API ·
+Umami · LogRocket · Sentry · Tableau · Metabase
 
 **Not my thing (yet):** production React/TypeScript at scale, Kubernetes, ML training.
 I would rather say that than find out together.
@@ -50,7 +53,7 @@ I would rather say that than find out together.
 
 ### Open source
 
-**[skills](https://github.com/MR-Axel/skills)** · 16 open skills for Claude Code: development
+**[skills](https://github.com/MR-Axel/skills)** · 14 open skills for Claude Code: development
 (project-setup, dev, test, review, deploy, ship), marketing, and remote job search for LatAm.
 Config lives in your repo, nothing hardcoded inside.
 
