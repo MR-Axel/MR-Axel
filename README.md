@@ -21,7 +21,7 @@ products of my own, with Claude Code in the loop for most of the build.
 | **[Buildeable](https://buildeable.com)** | AI product management platform. Specs, roadmaps, sprints, research and audits for PMs and small product teams. | `live` |
 | **[Pedimelo](https://pedimelo.com)** | AI agents for small businesses. WhatsApp, web and voice, wired to their own data. | `live` |
 
-Full portfolio, contribution history and public work: **[mr-axel.github.io](https://mr-axel.github.io)**
+Full portfolio, contribution history and public work: **[axelrosso.com](https://axelrosso.com)**
 
 <br>
 
@@ -60,7 +60,7 @@ Config lives in your repo, nothing hardcoded inside.
 
 **[LinkedIn](https://www.linkedin.com/in/axelrosso/)** is the fastest way to reach me.
 
-[Portfolio](https://mr-axel.github.io) ·
+[Portfolio](https://axelrosso.com) ·
 [LinkedIn](https://www.linkedin.com/in/axelrosso/) ·
 [Unlaunched](https://unlaunched.online/u/axel) ·
 [X](https://x.com/ArrobAxel)
