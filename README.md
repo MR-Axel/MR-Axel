@@ -26,17 +26,22 @@ Full portfolio, contribution history and public work: **[axelrosso.com](https://
 
 ### What I actually do
 
-- **AI agents.** Chat, voice, images and video, end to end. Where they run, which tools they
-  may touch, and when they hand off to a person.
-- **Your business online.** A landing that says what you actually do, the measurement wired
-  in from day one, and an agent that answers.
-- **Products, 0 to 1.** Strategy, build and launch. Spec to release in weeks, and the repo
-  ends up yours.
-- **Automation and internal tooling.** n8n, Activepieces, Retool, Zapier, Make. And that it
-  still runs six months after whoever built it has gone.
-- **Strategy and advisory.** One to one with a founder, or alongside the team, on the AI
-  calls that are being made by whoever is free.
-- **Generative production.** Image and product video, prompt to rendered clip.
+Each one has a page with what it includes, who it is for, and the questions people actually
+ask. Those pages are in Spanish.
+
+- **[AI agents](https://axelrosso.com/agentes-de-ia/).** Chat, voice and images, end to end.
+  Where they run, which tools they may touch, and when they hand off to a person.
+- **[Your business online](https://axelrosso.com/paginas-web/).** A landing that says what you
+  actually do, the measurement wired in from day one, and an agent that answers.
+- **[Products, 0 to 1](https://axelrosso.com/producto-desde-cero/).** Strategy, build and
+  launch. The repo is yours from the first commit.
+- **[Automation and internal tooling](https://axelrosso.com/automatizaciones/).** n8n,
+  Activepieces, Retool, Zapier, Make. And that it still runs six months after whoever built
+  it has gone.
+- **[Strategy and advisory](https://axelrosso.com/asesoria-ia/).** One to one with a founder,
+  or alongside the team, on the AI calls that are being made by whoever is free.
+- **[Generative production](https://axelrosso.com/contenido-con-ia/).** Images, product video
+  and brand, prompt to finished piece.
 - **Quality and release engineering.** Six years in QA and release automation before product.
   I still read a release plan looking for where it breaks.
 
@@ -46,16 +51,18 @@ Ollama · n8n · Activepieces · Retool · Zapier · Make · Docker · Caddy · 
 GitHub Actions · Jenkins · Playwright · MercadoPago · Lemon Squeezy · Resend · Telegram API ·
 Umami · LogRocket · Sentry · Tableau · Metabase
 
-**Not my thing (yet):** production React/TypeScript at scale, Kubernetes, ML training.
+**Not my thing (yet):** Kubernetes, training models from scratch, native iOS and Android.
 I would rather say that than find out together.
 
 <br>
 
 ### Open source
 
-**[skills](https://github.com/MR-Axel/skills)** · 14 open skills for Claude Code: development
-(project-setup, dev, test, review, deploy, ship), marketing, and remote job search for LatAm.
-Config lives in your repo, nothing hardcoded inside.
+**[skills](https://github.com/MR-Axel/skills)** · 14 open skills for Claude Code. The build
+loop (project-setup, dev, test, review, deep-review, deploy, deploy-qa, ship), the product
+side (product, ux, design-system, feature-agents), and two for the decisions around it
+(decision-log, community-manager). Each one interviews you and writes the answers into your
+repo, so nothing about me is hardcoded inside.
 
 <br>
 
