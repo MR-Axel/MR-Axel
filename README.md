@@ -18,7 +18,7 @@ Six years testing what other people built. Now I build it myself, to that standa
 | **[Nuchus](https://nuchus.app)** | Shared rides for the daily commute, on a flat fare. You travel comfortably, for a good price, and it earns you perks. | `live` |
 | **[Unlaunched](https://unlaunched.online)** | Where early projects get found. Builders publish what they are working on and meet co-founders before there is anything to demo. | `live` |
 | **[Buildeable](https://buildeable.com)** | Specs, roadmaps, research and audits for PMs, founders and small product teams. Product management built on Claude. | `live` |
-| **[Pedimelo](https://pedimelo.com)** | AI agents for small businesses: WhatsApp, web and voice, wired to the data they already have, with a dashboard on top. | `live` |
+| **Pedimelo** | AI agents for small businesses on WhatsApp, web and voice, wired to the data they already had. | `paused` |
 
 Full portfolio, contribution history and public work: **[axelrosso.com](https://axelrosso.com)**
 
