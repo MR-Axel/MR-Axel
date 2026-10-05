@@ -84,4 +84,5 @@ PC: voltages, temperatures and load, with a log that survives a power cut. In Sp
 [Portfolio](https://axelrosso.com) ·
 [LinkedIn](https://www.linkedin.com/in/axelrosso/) ·
 [Unlaunched](https://unlaunched.online/u/axel) ·
-[X](https://x.com/ArrobAxel)
+[X](https://x.com/ArrobAxel) ·
+[Ko-fi](https://ko-fi.com/mraxel)
