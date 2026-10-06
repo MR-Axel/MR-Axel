@@ -81,7 +81,7 @@ PC: voltages, temperatures and load, with a log that survives a power cut. In Sp
 
 Everything under Open source is free. If one of those tools saves you time, a coffee helps me ship the next one.
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mraxel)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/surlabs)
 
 <br>
 
@@ -93,4 +93,4 @@ Everything under Open source is free. If one of those tools saves you time, a co
 [LinkedIn](https://www.linkedin.com/in/axelrosso/) ·
 [Unlaunched](https://unlaunched.online/u/axel) ·
 [X](https://x.com/ArrobAxel) ·
-[Ko-fi](https://ko-fi.com/mraxel)
+[Ko-fi](https://ko-fi.com/surlabs)
