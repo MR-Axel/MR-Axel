@@ -64,7 +64,7 @@ side (product, ux, design-system, feature-agents), and two for the decisions aro
 (decision-log, community-manager). Each one interviews you and writes the answers into your
 repo, so nothing about me is hardcoded inside.
 
-**[md-tools](https://github.com/MR-Axel/md-tools)** · Chrome extension to read and edit
+**[sharpmd](https://github.com/MR-Axel/sharpmd)** · Chrome extension to read and edit
 Markdown files: outline, folder tree, search across the folder, and editing right on the
 formatted text. Nothing leaves your machine.
 
