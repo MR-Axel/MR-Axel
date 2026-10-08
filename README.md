@@ -15,7 +15,7 @@ Six years testing what other people built. Now I build it myself, to that standa
 | :-- | :-- | :-- | :-- |
 | **[dametrabajo](https://dametrabajo.com)** | Tailored CVs per posting, tracked applications, and the eligibility check up front. | [Web](https://dametrabajo.com) · [Chrome extension](https://chromewebstore.google.com/detail/dametrabajo/gpninkgklildhmoaaiffgflaeaodpdpl) · Android soon | `live` |
 | **[Kidonauta](https://www.kidonauta.com)** | An AI tutor for kids in LatAm. Nova builds missions around what a kid already loves, and never hands over the answer. | [Web](https://www.kidonauta.com) · Android soon | `live` |
-| **[SharpMD](https://sharpmd.app)** | A Markdown editor in the browser. You type on the formatted text, keep notes in the cloud if you want, and let your AI read and write them over MCP. | [Web](https://sharpmd.app) · [Source](https://github.com/MR-Axel/sharpmd) · Chrome extension soon | `live` |
+| **[SharpMD](https://sharpmd.app)** | A Markdown editor in the browser. You type on the formatted text, keep notes in the cloud if you want, and let your AI read and write them over MCP. | [Web](https://sharpmd.app) · [Source](https://github.com/SharpMD/sharpmd) · Chrome extension soon | `live` |
 | **[Nuchus](https://nuchus.app)** | Shared rides for the daily commute, on a flat fare. You travel comfortably, for a good price, and it earns you perks. | [Web](https://nuchus.app) | `live` |
 | **[Unlaunched](https://unlaunched.online)** | Where early projects get found. Builders publish what they are working on and meet co-founders before there is anything to demo. | [Web](https://unlaunched.online) | `live` |
 | **[Buildeable](https://buildeable.com)** | Specs, roadmaps, research and audits for PMs, founders and small product teams. Product management built on Claude. | [Web](https://buildeable.com) | `live` |
@@ -65,7 +65,7 @@ side (product, ux, design-system, feature-agents), and two for the decisions aro
 (decision-log, community-manager). Each one interviews you and writes the answers into your
 repo, so nothing about me is hardcoded inside.
 
-**[sharpmd](https://github.com/MR-Axel/sharpmd)** · The whole of [SharpMD](https://sharpmd.app):
+**[sharpmd](https://github.com/SharpMD/sharpmd)** · The whole of [SharpMD](https://sharpmd.app):
 the editor that runs as a web app and as a Chrome extension, under MIT, and the sync server
 behind cloud notes and the MCP endpoint, one Node file with SQLite, under AGPL.
 
